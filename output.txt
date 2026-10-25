@@ -1,0 +1,9 @@
+callByValue:
+    x=2
+
+callByReference1:
+    x=2;y=3;z=4
+
+callByReference2:
+    [print] x=11;y=12;z=13
+    [main] x=1;y=2;z=3
