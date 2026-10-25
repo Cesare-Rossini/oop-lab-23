@@ -1,5 +1,6 @@
 callByValue:
-    x=2
+    x=1
+    //forgot to check whether the method returned anything
 
 callByReference1:
     x=2;y=3;z=4
